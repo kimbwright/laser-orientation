@@ -182,13 +182,13 @@ your area of work and/or research.
 
 #### [**Your Turn**]{style="color: green;"} **⤵**
 
-What rows typically (or you think may) represent:In my field, rows typically represent a case- usually data for one person, such as a survey response for one teacher.
+What rows typically (or you think may) represent:
 
--   
+-   In my field, rows typically represent a case- usually data for one person, such as a survey response for one teacher.
 
 What columns typically (or you think may) represent:In my field, columns typically represent variables for each case, or respondent answers to different survey questions.
 
--   
+-   In my field, columns typically represent variables for each case, or respondent answers to different survey questions.
 
 Next, we'll use a few functions that are handy for preparing data in
 table form.
@@ -267,7 +267,7 @@ d |>
 What happens when you change the cut-off from 70 to something else? Add
 a thought (or more): I changed the cut-off from >70 to <60, so instead of seeing only final scores greater than 70, I saw final scores less than 60.
 
--   
+-   I changed the cut-off from >70 to <60, so instead of seeing only final scores greater than 70, I saw final scores less than 60.
 
 ### Arrange
 
